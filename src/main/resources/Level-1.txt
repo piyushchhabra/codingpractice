@@ -1,0 +1,3 @@
+1. Given a very large linked-list, how to find nth node from the end. Given that total size of linked list is not known.
+2. Minimum number of deletions to make a sorted sequence from a given array
+3. Longest Substring Without Repeating Characters ( linear solution using hashmap )
