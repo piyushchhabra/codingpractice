@@ -20,5 +20,3 @@
 5. Game of life: https://leetcode.com/problems/game-of-life/
 
 6. Construct Binary Tree from Inorder + Preorder/Postorder traversal
-
-7. Area of overlapping triangle. https://www.geeksforgeeks.org/total-area-two-overlapping-rectangles/

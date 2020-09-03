@@ -21,4 +21,8 @@ dependencies {
 
     // https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3
     compile group: 'com.amazonaws', name: 'aws-java-sdk-s3', version: '1.11.759'
+
+    // https://mvnrepository.com/artifact/javax.validation/validation-api
+    compile group: 'javax.validation', name: 'validation-api', version: '2.0.1.Final'
+
 }
